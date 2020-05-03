@@ -60,7 +60,7 @@ with full (500x500) and thumbnail (100x100) versions.
 
 ❓Ask a question on https://bitcoin.stackexchange.com/
 
-‼️ Answer a question on https://bitcoin.stackexchange.com/🇨
+‼️ Answer a question on https://bitcoin.stackexchange.com/
 
 📩 Start a discussion on the Bitcoin-dev mailing list
 
